@@ -31,7 +31,7 @@ Shopping Events is an Android application that helps users manage shopping-relat
 - Open the app and show the shopping events list.
 - Click the **Add Event** button to create a new event.
 - Select an event to edit or delete it.
-- The data is persisted using Room, ensuring events are saved even after restarting the ap.
+- The data is persisted using Room, ensuring events are saved even after restarting the app.
 
 ---
 
