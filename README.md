@@ -7,7 +7,7 @@ Shopping Events is an Android application that helps users manage shopping-relat
 - Add new events
 - Edit existing events
 - Delete events
-- Persist events using Room Database
+- Persist events using Room 
 
 ## Tech Stack
 - **Kotlin**: Primary programming language
