@@ -23,7 +23,7 @@ Shopping Events is an Android application that helps users manage shopping-relat
    ```sh
    git clone https://github.com/Ariful2016/Shopping-Events-Compose.git
    ```
-2. Open the project in **Android Studio** (latest version recommended).
+2. Open the project in **Android Studio** (latest version).
 3. Sync the project with Gradle files.
 4. Run the app on an emulator or a physical device.
 
